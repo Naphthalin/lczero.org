@@ -10,7 +10,7 @@ During the last months, a multitude of minor improvements has been made to impro
 
 In addition to the Leela Odds challenges published in this [blog post](https://lczero.org/blog/2026/03/leela-odds-challenges-on-lichess-queen-for-knight-double-knight-odds/) 3 months ago, there also was a queen odds bullet challenge with a similar "first participant to get a positive score with at least 10 wins" format, which was claimed rather quickly by GM Awonder Liang. To showcase the improvements made over the last months, we're now announcing another queen odds bullet challenge with a slightly different format:
 
-Instead of the first participant to make a positive score, we're interested in the best possible scores achieved within a 2 week window, with the following format:
+Instead of the first participant to make a positive score, we're interested in the best possible match scores achieved on a day over several weeks, with the following format:
 
 - Matches go until one side has won 20 games at 1'+0"; draws don't count, so a match score is either +20-x or +x-20. Games Leela loses due to potential technical problems are ignored.
 - Each player has one attempt per day from their official account, starting from a fresh 0-0 score.
