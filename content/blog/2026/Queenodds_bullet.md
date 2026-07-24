@@ -12,7 +12,7 @@ In addition to the Leela Odds challenges published in this [blog post](https://l
 
 Instead of the first participant to make a positive score, we're interested in the best possible scores achieved within a 2 week window, with the following format:
 
-- Matches go until one side has won 20 games at 1'+0"; draws don't count, and games Leela loses due to potential technical problems are ignored.
+- Matches go until one side has won 20 games at 1'+0"; draws don't count, so a match score is either +20-x or +x-20. Games Leela loses due to potential technical problems are ignored.
 - Each player has one attempt per day from their official account, starting from a fresh 0-0 score.
 - The challenge is open to all titled players LM and above (GM, IM, FM, NM, LM) with a 2700+ Lichess bullet peak rating (50+ games) and their identity revealed, with possible extensions after personal request to [Hissha](https://lichess.org/@/Hissha) via Lichess or in the [Lc0 Discord](https://lc0.org/chat).
 - And of course, evidence of engine use during the games will lead to a disqualification from the challenge.
@@ -26,7 +26,7 @@ We hope that this challenge will not only provide a lot of interesting and enter
 - challenge is open to all titled players LM and above (GM, IM, FM, NM, LM) with a 2700+ Lichess bullet peak rating (50+ games) and their identity revealed, with possible extensions after personal request (see above)
 - the challenge will run from 2026-07-24 00:00 UTC until at least 4 different eligible players with a 3000+ bullet rating (either Lichess or chess.com) have completed the challenge, but at least run until 15th of August 23:59:59 UTC.
 - matches go until either side has accumulated 20 wins, with one attempt per (Lichess server) day; the best result counts as the final score.
-- the participant with the best positive score (i.e. reaching 20 wins before Leela) will win the challenge and a $300 prize
+- the participant with the best positive score (i.e. reaches 20 wins before Leela and holding Leela to the least amount of wins) will win the challenge and a $300 prize
 - the two participants with the next best scores (not necessarily positive) will be awarded a $200 resp. $100 prize, even if no one wins the challenge
 
 ##### UPDATE 2026-06-27: Challenge postponed
